@@ -44,6 +44,9 @@ When uploading products to Google Merchant Center, empty product specifications 
 Install dependencies:
 ```bash
 pip install pandas openpyxl --break-system-packages
+
+For Mac users:
+python3 -m pip install pandas openpyxl --break-system-packages
 ```
 
 ## Usage
